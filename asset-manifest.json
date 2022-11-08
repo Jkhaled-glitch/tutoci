@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tutoci/static/css/main.5572d246.css",
-    "main.js": "/tutoci/static/js/main.727ec8c4.js",
+    "main.js": "/tutoci/static/js/main.d66a99aa.js",
     "static/js/787.9557884d.chunk.js": "/tutoci/static/js/787.9557884d.chunk.js",
     "index.html": "/tutoci/index.html",
     "main.5572d246.css.map": "/tutoci/static/css/main.5572d246.css.map",
-    "main.727ec8c4.js.map": "/tutoci/static/js/main.727ec8c4.js.map",
+    "main.d66a99aa.js.map": "/tutoci/static/js/main.d66a99aa.js.map",
     "787.9557884d.chunk.js.map": "/tutoci/static/js/787.9557884d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5572d246.css",
-    "static/js/main.727ec8c4.js"
+    "static/js/main.d66a99aa.js"
   ]
 }
